@@ -8,21 +8,21 @@ global.zApiKey = {// if this API key get expired then please go to https://www.f
 }
 
 
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.botname = process.env.BotName || "Ms Bot" 
+global.author = process.env.Author || "@ms-oshadha" 
+global.packname = process.env.PackName || "Queen Ms v2 MD" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.footer = process.env.Footer || "© Queen MS Bot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
+global.ownername = process.env.Owner_Name || "OSHADHA" 
+global.ownernumber = process.env.Owner_Number || "0712849964" 
+global.adress = process.env.Continent || "Asia, SRI LANKA, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
 global.email = process.env.Email_Id || "example@example.com" 
 
-global.mongoUrl = process.env.MongoDB || "Enter"; 
+global.mongoUrl = process.env.MongoDB || "cTdl_Queen-Anya_ZTl_Queen-Anya_TbUQ="; 
 
 global.warns = process.env.Warns_Limits || 3; 
 
@@ -101,15 +101,15 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
+  botname: process.env.BotName || "Queen Ms", 
   author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
+  packname: process.env.PackName || "Queen Ms v2 MD",
   myweb: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
+  footer: process.env.Footer || "© Queen Ms Bot",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
+  ownername: process.env.Owner_Name || "Oshadha",
+  ownernumber: process.env.Owner_Number || "0712849964",
   adress: process.env.Continent || "Asia, India, Assam",
   timezone: process.env.TimeZone || "Asia/Kolkata", 
   instagramId: process.env.Insta || "8.08_only_mine",
