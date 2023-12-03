@@ -17,12 +17,12 @@ global.prefa = process.env.Prefix || ['-']
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "OSHADHA" 
 global.ownernumber = process.env.Owner_Number || "0712849964" 
-global.adress = process.env.Continent || "Asia, SRI LANKA, Assam" 
-global.timezone = process.env.TimeZone || "Asia/Kolkata" 
+global.adress = process.env.Continent || "Asia, Sri lanka, wegalle" 
+global.timezone = process.env.TimeZone || "Asia/bulathkohupitiya" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.email = process.env.Email_Id || "oshadhaoshadha24@gmail.com" 
 
-global.mongoUrl = process.env.MongoDB || "cTdl_Queen-Anya_ZTl_Queen-Anya_TbUQ="; 
+global.mongoUrl = process.env.MongoDB || ""; 
 
 global.warns = process.env.Warns_Limits || 3; 
 
